@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ContactAppLogic
 {
-    internal class ManagerProject
+    public class ManagerProject
     {
     }
 }
