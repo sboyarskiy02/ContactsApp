@@ -15,11 +15,21 @@ namespace ContactsAppUI
         public MainForm()
         {
             InitializeComponent();
-            this.Text = "Главное окно программы";
+            this.Text = "ContactsApp";
             this.Size = new Size(400, 250);
         }
 
         private void MainForm_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void listBox2_SelectedIndexChanged(object sender, EventArgs e)
         {
 
         }

@@ -131,6 +131,7 @@
             this.label2.Size = new System.Drawing.Size(38, 13);
             this.label2.TabIndex = 1;
             this.label2.Text = "Name:";
+            this.label2.Click += new System.EventHandler(this.label2_Click);
             // 
             // label3
             // 
@@ -140,6 +141,7 @@
             this.label3.Size = new System.Drawing.Size(48, 13);
             this.label3.TabIndex = 2;
             this.label3.Text = "Birthday:";
+            this.label3.Click += new System.EventHandler(this.label3_Click);
             // 
             // label4
             // 
@@ -149,6 +151,7 @@
             this.label4.Size = new System.Drawing.Size(41, 13);
             this.label4.TabIndex = 3;
             this.label4.Text = "Phone:";
+            this.label4.Click += new System.EventHandler(this.label4_Click);
             // 
             // label5
             // 
@@ -168,6 +171,7 @@
             this.label6.Size = new System.Drawing.Size(45, 13);
             this.label6.TabIndex = 5;
             this.label6.Text = "vk.com:";
+            this.label6.Click += new System.EventHandler(this.label6_Click);
             // 
             // Form1
             // 
