@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContactAppLogic", "ContactA
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsAddEditContactForm", "WindowsFormsApp4\WindowsAddEditContactForm.csproj", "{6C90A70A-2E31-481B-91C6-F7B43C64E230}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AboutForms", "AboutForms\AboutForms.csproj", "{8285ECF3-F15D-46E0-A6C4-14478F301083}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{6C90A70A-2E31-481B-91C6-F7B43C64E230}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6C90A70A-2E31-481B-91C6-F7B43C64E230}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6C90A70A-2E31-481B-91C6-F7B43C64E230}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8285ECF3-F15D-46E0-A6C4-14478F301083}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8285ECF3-F15D-46E0-A6C4-14478F301083}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8285ECF3-F15D-46E0-A6C4-14478F301083}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8285ECF3-F15D-46E0-A6C4-14478F301083}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

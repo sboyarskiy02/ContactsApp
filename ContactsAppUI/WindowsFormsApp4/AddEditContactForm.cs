@@ -15,6 +15,8 @@ namespace WindowsFormsApp4
         public AddEditContactForm()
         {
             InitializeComponent();
+            this.Text = "Add/Edit Contact";
+            this.Size = new Size(400, 250);
         }
 
         private void Form1_Load(object sender, EventArgs e)
