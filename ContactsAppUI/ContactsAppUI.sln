@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContactsAppUI", "ContactsAp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContactAppLogic", "ContactAppLogic\ContactAppLogic.csproj", "{28D4A4E9-76B8-4C32-83C3-D3B4C2E0766F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp4", "WindowsFormsApp4\WindowsFormsApp4.csproj", "{6C90A70A-2E31-481B-91C6-F7B43C64E230}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsAddEditContactForm", "WindowsFormsApp4\WindowsAddEditContactForm.csproj", "{6C90A70A-2E31-481B-91C6-F7B43C64E230}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

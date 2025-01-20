@@ -88,6 +88,10 @@
       <Project>{28d4a4e9-76b8-4c32-83c3-d3b4c2e0766f}</Project>
       <Name>ContactAppLogic</Name>
     </ProjectReference>
+    <ProjectReference Include="..\WindowsFormsApp4\WindowsAddEditContactForm.csproj">
+      <Project>{6c90a70a-2e31-481b-91c6-f7b43c64e230}</Project>
+      <Name>WindowsAddEditContactForm</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
